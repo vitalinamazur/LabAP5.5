@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vital\\source\\repos\\LabAP5.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B8110B3-F587-4CDD-BFAD-1E64A9E3107D}|UnitTest5.5\\UnitTest5.5.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP5.5\\UnitTest5.5\\UnitTest5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B8110B3-F587-4CDD-BFAD-1E64A9E3107D}|UnitTest5.5\\UnitTest5.5.vcxproj|solutionrelative:UnitTest5.5\\UnitTest5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17504429-C869-45C5-B229-28B5D23CE29B}|LabAP5.5\\LabAP5.5.vcxproj|C:\\Users\\vital\\source\\repos\\LabAP5.5\\LabAP5.5\\LabAP5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{17504429-C869-45C5-B229-28B5D23CE29B}|LabAP5.5\\LabAP5.5.vcxproj|solutionrelative:LabAP5.5\\LabAP5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest5.5.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP5.5\\UnitTest5.5\\UnitTest5.5.cpp",
+              "RelativeDocumentMoniker": "UnitTest5.5\\UnitTest5.5.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP5.5\\UnitTest5.5\\UnitTest5.5.cpp*",
+              "RelativeToolTip": "UnitTest5.5\\UnitTest5.5.cpp*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T21:21:02.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LabAP5.5.cpp",
+              "DocumentMoniker": "C:\\Users\\vital\\source\\repos\\LabAP5.5\\LabAP5.5\\LabAP5.5.cpp",
+              "RelativeDocumentMoniker": "LabAP5.5\\LabAP5.5.cpp",
+              "ToolTip": "C:\\Users\\vital\\source\\repos\\LabAP5.5\\LabAP5.5\\LabAP5.5.cpp",
+              "RelativeToolTip": "LabAP5.5\\LabAP5.5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-13T11:14:17.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
